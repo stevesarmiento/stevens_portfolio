@@ -1,2 +1,3 @@
 # stevens_portfolio
-My portfolio website
+
+A work in progress! A never ending journey.
